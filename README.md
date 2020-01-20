@@ -1,4 +1,3 @@
-# lab3_MiTiS
 echo "# lab3_MiTiS" >> README.md
 git init
 git add README.md
